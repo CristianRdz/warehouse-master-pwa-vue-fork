@@ -1,136 +1,138 @@
+Prueba pages
+
 Listado de rutas de carpetas
-El n£mero de serie del volumen es 0000002B 3A73:8222
+El nï¿½mero de serie del volumen es 0000002B 3A73:8222
 C:\INTEGRACARSI\WAREHOUSE-MASTER-PWA-VUE
-³   .gitignore
-³   estructura_arbol.txt
-³   index.html
-³   manifest.json
-³   package-lock.json
-³   package.json
-³   postcss.config.js
-³   README.md
-³   serviceWorker.js
-³   tailwind.config.js
-³   vite.config.js
-³   webpack.config.js
-³   
-ÃÄÄÄ.vscode
-ÃÄÄÄdist
-³   ³   favicon.ico
-³   ³   index.html
-³   ³   
-³   ÀÄÄÄassets
-³           Compras.5bf85aff.js
-³           Compras.cf6e3620.css
-³           ErrorPage.835fd147.css
-³           ErrorPage.858cc897.js
-³           Home.6f7524f6.js
-³           Home.9ca73d19.css
-³           index.7c27b610.css
-³           index.9df81cd1.js
-³           landingimg1.f4c397a6.jpg
-³           landingimg2.68c05347.jpg
-³           landingimg3.28290094.jpg
-³           landingimg4.13a324dd.jpg
-³           landingimg5.8e2ebcd5.jpg
-³           LandingPage.3cee3a49.css
-³           LandingPage.89b1d9ee.js
-³           Login.5ef1a0f6.css
-³           Login.67503458.js
-³           LogoWaterhouse.4dacd4cb.png
-³           LogoWaterhouse2.094f8168.png
-³           LogoWaterhouse2.cd9740c0.js
-³           Profile.297ba1b8.css
-³           Profile.71e403a8.js
-³           Profile.7a4bdfcc.css
-³           Profile.f88d2b3c.js
-³           Register.9fd09392.css
-³           Register.d73550bb.js
-³           ServicesServices.7199400a.js
-³           Servicios.9146e07e.js
-³           Servicios.f7fd52c9.css
-³           ShoppingCart.2f8d4881.js
-³           ShoppingCart.61ce82d9.css
-³           UsersServices.e6f50414.js
-³           
-ÃÄÄÄpublic
-³       favicon.ico
-³       
-ÀÄÄÄsrc
-    ³   App.vue
-    ³   main.js
-    ³   
-    ÃÄÄÄassets
-    ³   ³   base.css
-    ³   ³   logo.svg
-    ³   ³   main.css
-    ³   ³   
-    ³   ÀÄÄÄimages
-    ³       ³   logo3d.png
-    ³       ³   logoapp.png
-    ³       ³   logorealista.jpg
-    ³       ³   logorealista.png
-    ³       ³   LogoWaterhouse.png
-    ³       ³   LogoWaterhouse2.png
-    ³       ³   
-    ³       ÀÄÄÄpaqueteria
-    ³               landingimg1.jpg
-    ³               landingimg2.jpg
-    ³               landingimg3.jpg
-    ³               landingimg4.jpg
-    ³               landingimg5.jpg
-    ³               
-    ÃÄÄÄcomponents
-    ³   ÃÄÄÄcliente
-    ³   ³   ÀÄÄÄcomponents
-    ³   ³           CardService.vue
-    ³   ³           Compras.vue
-    ³   ³           Home.vue
-    ³   ³           Profile.vue
-    ³   ³           Servicios.vue
-    ³   ³           ShoppingCart.vue
-    ³   ³           
-    ³   ÀÄÄÄpublic
-    ³       ³   DialogCambiarContra.vue
-    ³       ³   Login.vue
-    ³       ³   Profile.vue
-    ³       ³   Register.vue
-    ³       ³   Restablecer.vue
-    ³       ³   RestablecerConfirmar.vue
-    ³       ³   
-    ³       ÃÄÄÄerror
-    ³       ³       ErrorPage.vue
-    ³       ³       
-    ³       ÀÄÄÄLanding-pages
-    ³               LandingPage.vue
-    ³               
-    ÃÄÄÄplugins
-    ³       vuetify.js
-    ³       
-    ÃÄÄÄrouter
-    ³       index.js
-    ³       
-    ÃÄÄÄservices
-    ³       CartService.js
-    ³       CategoryServices.js
-    ³       RecuperarContraService.js
-    ³       ServicesServices.js
-    ³       SwalService.js
-    ³       UsersServices.js
-    ³       
-    ÃÄÄÄstores
-    ³       auth.store.js
-    ³       cart.store.js
-    ³       index.js
-    ³       
-    ÃÄÄÄutils
-    ³       aes.js
-    ³       axios-client.js
-    ³       constants.js
-    ³       fetch-client.js
-    ³       notification.js
-    ³       
-    ÀÄÄÄviews
+ï¿½   .gitignore
+ï¿½   estructura_arbol.txt
+ï¿½   index.html
+ï¿½   manifest.json
+ï¿½   package-lock.json
+ï¿½   package.json
+ï¿½   postcss.config.js
+ï¿½   README.md
+ï¿½   serviceWorker.js
+ï¿½   tailwind.config.js
+ï¿½   vite.config.js
+ï¿½   webpack.config.js
+ï¿½   
+ï¿½ï¿½ï¿½ï¿½.vscode
+ï¿½ï¿½ï¿½ï¿½dist
+ï¿½   ï¿½   favicon.ico
+ï¿½   ï¿½   index.html
+ï¿½   ï¿½   
+ï¿½   ï¿½ï¿½ï¿½ï¿½assets
+ï¿½           Compras.5bf85aff.js
+ï¿½           Compras.cf6e3620.css
+ï¿½           ErrorPage.835fd147.css
+ï¿½           ErrorPage.858cc897.js
+ï¿½           Home.6f7524f6.js
+ï¿½           Home.9ca73d19.css
+ï¿½           index.7c27b610.css
+ï¿½           index.9df81cd1.js
+ï¿½           landingimg1.f4c397a6.jpg
+ï¿½           landingimg2.68c05347.jpg
+ï¿½           landingimg3.28290094.jpg
+ï¿½           landingimg4.13a324dd.jpg
+ï¿½           landingimg5.8e2ebcd5.jpg
+ï¿½           LandingPage.3cee3a49.css
+ï¿½           LandingPage.89b1d9ee.js
+ï¿½           Login.5ef1a0f6.css
+ï¿½           Login.67503458.js
+ï¿½           LogoWaterhouse.4dacd4cb.png
+ï¿½           LogoWaterhouse2.094f8168.png
+ï¿½           LogoWaterhouse2.cd9740c0.js
+ï¿½           Profile.297ba1b8.css
+ï¿½           Profile.71e403a8.js
+ï¿½           Profile.7a4bdfcc.css
+ï¿½           Profile.f88d2b3c.js
+ï¿½           Register.9fd09392.css
+ï¿½           Register.d73550bb.js
+ï¿½           ServicesServices.7199400a.js
+ï¿½           Servicios.9146e07e.js
+ï¿½           Servicios.f7fd52c9.css
+ï¿½           ShoppingCart.2f8d4881.js
+ï¿½           ShoppingCart.61ce82d9.css
+ï¿½           UsersServices.e6f50414.js
+ï¿½           
+ï¿½ï¿½ï¿½ï¿½public
+ï¿½       favicon.ico
+ï¿½       
+ï¿½ï¿½ï¿½ï¿½src
+    ï¿½   App.vue
+    ï¿½   main.js
+    ï¿½   
+    ï¿½ï¿½ï¿½ï¿½assets
+    ï¿½   ï¿½   base.css
+    ï¿½   ï¿½   logo.svg
+    ï¿½   ï¿½   main.css
+    ï¿½   ï¿½   
+    ï¿½   ï¿½ï¿½ï¿½ï¿½images
+    ï¿½       ï¿½   logo3d.png
+    ï¿½       ï¿½   logoapp.png
+    ï¿½       ï¿½   logorealista.jpg
+    ï¿½       ï¿½   logorealista.png
+    ï¿½       ï¿½   LogoWaterhouse.png
+    ï¿½       ï¿½   LogoWaterhouse2.png
+    ï¿½       ï¿½   
+    ï¿½       ï¿½ï¿½ï¿½ï¿½paqueteria
+    ï¿½               landingimg1.jpg
+    ï¿½               landingimg2.jpg
+    ï¿½               landingimg3.jpg
+    ï¿½               landingimg4.jpg
+    ï¿½               landingimg5.jpg
+    ï¿½               
+    ï¿½ï¿½ï¿½ï¿½components
+    ï¿½   ï¿½ï¿½ï¿½ï¿½cliente
+    ï¿½   ï¿½   ï¿½ï¿½ï¿½ï¿½components
+    ï¿½   ï¿½           CardService.vue
+    ï¿½   ï¿½           Compras.vue
+    ï¿½   ï¿½           Home.vue
+    ï¿½   ï¿½           Profile.vue
+    ï¿½   ï¿½           Servicios.vue
+    ï¿½   ï¿½           ShoppingCart.vue
+    ï¿½   ï¿½           
+    ï¿½   ï¿½ï¿½ï¿½ï¿½public
+    ï¿½       ï¿½   DialogCambiarContra.vue
+    ï¿½       ï¿½   Login.vue
+    ï¿½       ï¿½   Profile.vue
+    ï¿½       ï¿½   Register.vue
+    ï¿½       ï¿½   Restablecer.vue
+    ï¿½       ï¿½   RestablecerConfirmar.vue
+    ï¿½       ï¿½   
+    ï¿½       ï¿½ï¿½ï¿½ï¿½error
+    ï¿½       ï¿½       ErrorPage.vue
+    ï¿½       ï¿½       
+    ï¿½       ï¿½ï¿½ï¿½ï¿½Landing-pages
+    ï¿½               LandingPage.vue
+    ï¿½               
+    ï¿½ï¿½ï¿½ï¿½plugins
+    ï¿½       vuetify.js
+    ï¿½       
+    ï¿½ï¿½ï¿½ï¿½router
+    ï¿½       index.js
+    ï¿½       
+    ï¿½ï¿½ï¿½ï¿½services
+    ï¿½       CartService.js
+    ï¿½       CategoryServices.js
+    ï¿½       RecuperarContraService.js
+    ï¿½       ServicesServices.js
+    ï¿½       SwalService.js
+    ï¿½       UsersServices.js
+    ï¿½       
+    ï¿½ï¿½ï¿½ï¿½stores
+    ï¿½       auth.store.js
+    ï¿½       cart.store.js
+    ï¿½       index.js
+    ï¿½       
+    ï¿½ï¿½ï¿½ï¿½utils
+    ï¿½       aes.js
+    ï¿½       axios-client.js
+    ï¿½       constants.js
+    ï¿½       fetch-client.js
+    ï¿½       notification.js
+    ï¿½       
+    ï¿½ï¿½ï¿½ï¿½views
             AboutView.vue
             HomeView.vue
             
