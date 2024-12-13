@@ -7,7 +7,7 @@ export default defineConfig(({mode}) => {
     const isDevelopment = mode === 'development';
 
     return {
-        base: '/warehouse-master-pwa-vue/',
+        base: '/warehouse-master-pwa-vue-fork/',
         plugins: [vue(), VitePWA({
             registerType: 'autoUpdate', devOptions: {
                 enabled: true
@@ -31,7 +31,7 @@ export default defineConfig(({mode}) => {
                     "type": "image/png",
                     "purpose": "any"
                 }],
-                "start_url": "/warehouse-master-pwa-vue/",
+                "start_url": "/warehouse-master-pwa-vue-fork/",
                 "display": "standalone",
                 "background_color": "#ffffff",
                 "theme_color": "#000000",
